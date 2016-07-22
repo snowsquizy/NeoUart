@@ -1,6 +1,6 @@
 NeoUart
 =======
-Ensure that uart3 is enabled by following this procedure:-
+Ensure that uart3 is enabled by following this procedure:-\n
   cd /boot
   sudo bin2fex script.bin script.fex
   sudo nano script.fex
